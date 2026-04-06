@@ -7,7 +7,7 @@ Gain experience with popular libraries and tools
 Apply theoretical knowledge to solve practical problems
 Develop problem-solving and analytical skills
 
-Technologies Used
+Technologies Used:
 Python
 NumPy
 Pandas
